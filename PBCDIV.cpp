@@ -15,3 +15,5 @@ int main(){
 	}
 	return 0;
 }
+//scanf("%lld%lld",&a,&b);
+//printf("%lld\n",calc(b)-calc(a-1));
